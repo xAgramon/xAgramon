@@ -4,8 +4,10 @@
 
 > Java Developer ☕
 > Artist 🎨
-> Learning C# 📝
+> Learning Python, C, C# 📝
 
 - Working on a platform game in Unity 🎮
 - Working on various Discord Bots in JDA 🤖
 - Working on portable Java tools 🛠️
+
+Passionate developer with a focus on Cybersecurity, Webscraping, and Game Development
