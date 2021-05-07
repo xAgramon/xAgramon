@@ -4,7 +4,7 @@
 
 -> Java and Python Developer ☕
 -> Artist 🎨
--> Cyber Security Researcher 🔬
+-> Cybersecurity Researcher 🔬
 -> Learning C and C# 📝
 
 - Working on a platform game in Python 🎮
