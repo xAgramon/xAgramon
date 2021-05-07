@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-[![Agramon's Stats](https://github-readme-stats.vercel.app/api?username=xagramon)](https://github.com/anuraghazra/github-readme-stats)
+[![Agramon's Stats](https://github-readme-stats.vercel.app/api?username=xagraz)](https://github.com/anuraghazra/github-readme-stats)
 
 > Java Developer ☕
 > Artist 🎨
