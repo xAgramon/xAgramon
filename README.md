@@ -2,10 +2,10 @@
 
 [![Agramon's Stats](https://github-readme-stats.vercel.app/api?username=xagraz)](https://github.com/anuraghazra/github-readme-stats)
 
->> Java and Python Developer ☕
->> Artist 🎨
->> Cyber Security Researcher 🔬
->> Learning C and C# 📝
+-> Java and Python Developer ☕
+-> Artist 🎨
+-> Cyber Security Researcher 🔬
+-> Learning C and C# 📝
 
 - Working on a platform game in Python 🎮
 - Working on various Discord Bots in Java (JDA) 🤖
